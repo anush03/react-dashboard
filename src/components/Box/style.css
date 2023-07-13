@@ -1,0 +1,261 @@
+.box {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.box .sidebar-wrapper {
+  border: 0px none;
+  height: 1298.35px;
+  position: relative;
+  width: 395px;
+}
+
+.box .sidebar {
+  background-color: #ffffff;
+  box-shadow: 0px 11.63px 34.9px #1126920d;
+  height: 1298px;
+  left: 0;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 3px;
+}
+
+.box .main-logo {
+  height: 145px;
+  left: 35px;
+  position: absolute;
+  top: 10px;
+  width: 575px;
+}
+
+.box .overlap-group {
+  height: 146px;
+  left: -1px;
+  position: relative;
+  width: 579px;
+}
+
+.box .logo {
+  height: 143px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 485px;
+}
+
+.box .separator {
+  background-color: #33333333;
+  border: 0px none;
+  height: 4px;
+  left: -100px;
+  position: absolute;
+  top: -80px;
+  width: 579px;
+}
+
+.box .overview {
+  align-items: flex-start;
+  background-color: #0d62ff;
+  border-radius: 4.65px;
+  box-shadow: 0px 2.33px 4.65px #8a92a64c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 6px;
+  padding: 2px 27.92px;
+  position: absolute;
+  top: 175px;
+  width: 200px;
+}
+
+.box .messages {
+  align-items: center;
+  display: flex;
+  gap: 66.31px;
+  position: relative;
+  width: fit-content;
+}
+
+.box .div {
+  align-items: center;
+  display: flex;
+  gap: 18.61px;
+  position: relative;
+  width: fit-content;
+}
+
+.box .div-wrapper {
+  height: 27.92px;
+  min-width: 27.92px;
+  position: relative;
+}
+
+.box .div-2 {
+  height: 23px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 23px;
+}
+
+.box .overlap-group-2 {
+  height: 23px;
+  position: relative;
+}
+
+.box .fill {
+  height: 10px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.box .combined-shape {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.box .menu {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26.6px;
+  margin-top: -0.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.box .main {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 12px;
+  position: absolute;
+  top: 220px;
+  width: 318px;
+}
+
+.box .menu-list {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 9.31px;
+  justify-content: center;
+  position: relative;
+  width: 271.07px;
+}
+
+.box .messages-wrapper {
+  align-items: flex-start;
+  border-radius: 0px 37.23px 37.23px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 4px 27px;
+  position: relative;
+  width: 271.07px;
+}
+
+.box .messages-2 {
+  align-items: center;
+  display: flex;
+  gap: 63.99px;
+  position: relative;
+  width: fit-content;
+}
+
+.box .game {
+  height: 5px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.box .img {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 23px;
+}
+
+.box .text-wrapper {
+  color: #0d62ff;
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26.6px;
+  margin-top: -0.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.box .dropdown {
+  border-radius: 18.61px;
+  height: 27.92px;
+  min-width: 27.92px;
+  position: relative;
+  transform: rotate(-90deg);
+}
+
+.box .messages-3 {
+  align-items: center;
+  display: flex;
+  gap: 89.58px;
+  position: relative;
+  width: fit-content;
+}
+
+.box .location {
+  height: 23px;
+  left: 6px;
+  position: relative;
+  top: 2px;
+  width: 16px;
+}
+
+.box .path {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.box .ellipse {
+  background-color: #0d62ff;
+  border-radius: 5.82px/1.16px;
+  height: 2px;
+  left: 2px;
+  opacity: 0.4;
+  position: absolute;
+  top: 21px;
+  width: 12px;
+}
+
+.box .workryt-technologies {
+  color: #33333333;
+  font-family: "Poppins", Helvetica;
+  font-size: 11.6px;
+  font-weight: 300;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1254px;
+}
